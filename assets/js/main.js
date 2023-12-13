@@ -1,6 +1,6 @@
 
-function() {
-  "use strict";
+
+
 
   /**
    * Easy selector helper function
@@ -252,4 +252,4 @@ function() {
    */
   new PureCounter();
 
-}()
+

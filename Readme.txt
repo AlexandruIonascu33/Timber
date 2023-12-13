@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This is Alex
 
 Template Name: Lumia
 Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
